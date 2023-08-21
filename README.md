@@ -5,6 +5,5 @@
 
 # RoadMap
 
-
-[RoadMap: A Light-Weight Semantic Map for Visual Localization towards Autonomous Driving](./RoadMap: A Light-Weight Semantic Map for Visual Localization towards Autonomous Driving.pdf)
+1. RoadMap: A Light-Weight Semantic Map for Visual Localization towards Autonomous Driving
 
