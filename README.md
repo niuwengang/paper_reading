@@ -1,2 +1,10 @@
 # paper_reading
-自动驾驶论文阅读
+自动驾驶领域论文阅读
+
+
+
+# RoadMap
+
+
+[RoadMap: A Light-Weight Semantic Map for Visual Localization towards Autonomous Driving](./RoadMap: A Light-Weight Semantic Map for Visual Localization towards Autonomous Driving.pdf)
+
