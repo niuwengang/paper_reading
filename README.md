@@ -1,21 +1,6 @@
-# paper_reading
-自动驾驶领域论文阅读
-
-
-
-## RoadMap
-
+# 自动驾驶语义建图与定位
 RoadMap: A Light-Weight Semantic Map for Visual Localization towards Autonomous Driving
 
 
 
----
-
-## Classic LIO
-
-
-
-
-
-___
 
